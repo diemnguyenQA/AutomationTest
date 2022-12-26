@@ -1,0 +1,21 @@
+{
+  "name": "automationtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diemnguyenQA/AutomationTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diemnguyenQA/AutomationTest/issues"
+  },
+  "homepage": "https://github.com/diemnguyenQA/AutomationTest#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.1"
+  }
+}
